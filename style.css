@@ -1,0 +1,26 @@
+body{
+    background: black;
+    color: white;
+}
+h1, h2, h3, h4{
+    color: brown;
+}
+nav{
+    border: 1px solid;
+    padding: 6px;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+}
+.contenedor{
+    padding: 10px;
+}
+img{
+    margin-left: 400px;
+}
+
+section{
+    padding-right: 400px;
+}
